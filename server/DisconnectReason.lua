@@ -1,3 +1,7 @@
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
 local cached_players = {}
 
 if Config.DisconnectReason then
@@ -50,3 +54,7 @@ if Config.DisconnectTest then
         end
     end, false)
 end
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
