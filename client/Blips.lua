@@ -1,3 +1,7 @@
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
 if Config.Blips then
     Citizen.CreateThread(function()
         for _, info in pairs(Config.TheBlips) do
@@ -19,3 +23,8 @@ if Config.Blips then
         end
     end)
 end
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+
