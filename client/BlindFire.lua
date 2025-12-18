@@ -1,3 +1,7 @@
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
 if Config.BlindFire then
     Citizen.CreateThread(function()
         while true do
@@ -11,3 +15,7 @@ if Config.BlindFire then
         end
     end)
 end
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
