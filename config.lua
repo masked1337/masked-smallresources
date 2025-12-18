@@ -1,3 +1,7 @@
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
 Config = {}
 
 Keys = {
@@ -105,7 +109,7 @@ Config.TrafficArea = {
 
 Config.DiscordRPC = {
     ["Enabled"] = true,           -- Enable Discord rich presence
-    ["ApplicationId"] = '1450577694961041579', -- Discord app ID
+    ["ApplicationId"] = 'PUT YOUR APP ID HERE', -- Discord app ID
     ["IconSmall"] = 'small_logo_name',       -- Small icon name for presence
     ["IconSmallHoverText"] = 'Small icon hover text',
     ["IconLarge"] = 'logo_name',             -- Large icon name for presence
@@ -118,3 +122,7 @@ Config.DiscordRPC = {
         {text = 'CONNECT', value = 'https://google.com/uskoro'}
     }
 }
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
