@@ -1,3 +1,7 @@
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
 if Config.AimAssist then
     Citizen.CreateThread(function()
         while true do
@@ -9,3 +13,7 @@ if Config.AimAssist then
         end
     end)
 end
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
+--- https://discord.gg/PmfctTx6rH
