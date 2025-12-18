@@ -4,8 +4,8 @@ lua54 'yes'
 
 title "masked-smallresources"
 author "masked1337" 
-description "Skriptica"
-version "1.8.0"
+description "Small Resources Script 3.5.0"
+version "3.5.0"
 
 server_scripts {
     'server/*.lua'
